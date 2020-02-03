@@ -2,7 +2,7 @@
 Soundtracks and D2 Maximum mod for DXX-Rebirth and DXX-Retro
 
 The DXX-Rebirth and DXX-Retro installers use a dropbox url that is no longer valid.
-I made this project to host these files so they're not and/or have to dig around to find them...
+I made this repo to host these files so they're not lost and/or have to dig around to find them...
 
 Due to file size restrictions on github, I used 7zip to store files greater than 50M and split them at 47M. While the true limit is 100M, I felt aiming for the 50M warning would be better than getting close to the hard limit.
 Sorry about splitting the files but I rather have it like this than having the lost to time!
